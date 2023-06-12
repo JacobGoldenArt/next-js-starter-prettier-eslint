@@ -1,6 +1,6 @@
 # Nextjs Starter
 
-## Finnally got prettier and eslint working together!
+## Finally got prettier and eslint working together!
 
 Use the @latest version of Next, React and Typescript etc...
 
