@@ -1,8 +1,8 @@
 # Nextjs Starter
 
-## Finnally got prettier and eslint working together. This will use the latest
+## Finnally got prettier and eslint working together!
 
-version of Next, React and typescript.
+Use the @latest version of Next, React and Typescript etc...
 
 Clone Repo and run:
 
