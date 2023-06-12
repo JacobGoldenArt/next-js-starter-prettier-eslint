@@ -4,4 +4,8 @@
 
 version of Next, React and typescript.
 
-Clone Repo and run npm install.
+Clone Repo and run:
+
+```bash
+npm i
+```
